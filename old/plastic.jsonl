@@ -1,0 +1,123 @@
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is plastic item wrapped in soft plastic film or a plastic bag? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is plastic item wrapped in soft plastic film or a plastic bag? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place soft plastic in black trash bin and place recyclable items in blue trash bin. Tip: Soft plastics can tangle in recycling equipment.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is plastic item wrapped in soft plastic film or a plastic bag? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in blue bin if it\u2019s a rigid, recyclable plastic. Tip: Check for recycling symbols to confirm.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item empty or free of extra matterials on it?<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item empty or free of extra matterials on it?<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the blue recycling bin. Tip: An empty item ensures proper recycling.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item empty or free of extra matterials on it?<|end|>\n<|user|>No<|end|>\n<|assistant|>Empty the item and place it in the blue recycling bin. Tip: An empty item ensures proper recycling.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does it have a recycling symbol with numbers 1-7? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does it have a recycling symbol with numbers 1-7? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the blue bin. Tip: Plastics marked 1\u20137 are usually recyclable curbside.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does it have a recycling symbol with numbers 1-7? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Unmarked plastics are often not recyclable curbside.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is there any foam or Styrofoam present?<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is there any foam or Styrofoam present?<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place the foam and styrofoam in black trash bin or find a foam recycling drop-off. Tip: Foam clogs recycling equipment.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is there any foam or Styrofoam present?<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in the blue bin if it\u2019s a rigid plastic. Tip: Foam-like appearance doesn\u2019t always mean it\u2019s not recyclable \u2014 check the label.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is this plastic item smaller than a credit card?<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is this plastic item smaller than a credit card?<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Small items fall through sorting machinery and are not recovered.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is this plastic item smaller than a credit card?<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in the blue recycling bin. Tip: Larger plastic items are more likely to be correctly sorted and recycled.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the item made from black or dark-colored plastic? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Black plastic is hard to detect by recycling sorters.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in the blue bin if clean and labeled correctly. Tip: Lighter colors are easier to sort.<|end|>"}
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does the item have a plastic lid or cap attached? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Remove the lid and place both parts separately in the blue bin. Tip: Lids can be made of different plastic types.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Ensure it\u2019s clean and place it in the blue bin. Tip: Items without lids are easier to process.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item a disposable utensil (fork, knife, spoon)? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Utensils are too small to be sorted effectively.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in blue bin if rigid and labeled. Tip: Check size and markings before recycling.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Did the container hold any hazardous material like motor oil or pesticide? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Do not place in curbside bins. Take to a recycling depot. Tip: These items are hazardous waste.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in blue bin if clean and properly labeled. Tip: Always rinse containers before recycling.<|end|>"}
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is it a plastic plant pot from a nursery? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Return to a nursery if possible, or place in blue bin if labeled #2 or #5. Tip: Reuse options are available.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Check labeling and recycle if rigid and clean. Tip: Reuse when unsure.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic a clamshell container like for berries or salads? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the blue bin if labeled #1 or #6. Tip: Remove labels if possible.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in blue bin if it\u2019s a rigid plastic container. Tip: Always check symbols before recycling.<|end|>"}
+
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the item flexible, like a squeezable tube or pouch? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Flexible plastics are not curbside recyclable.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Place in the blue bin if rigid and labeled. Tip: Rigid shapes are more easily sorted.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is there a full-body plastic sleeve on the item? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Remove the sleeve if possible and recycle both accordingly. Tip: Sleeves are often made from different plastics.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is there a full-body plastic sleeve on the item? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the item in the blue bin if it is a clean, rigid plastic container. Tip: Simple packaging is best for recycling.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the item a single-use sauce or condiment container? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place in black bin. Tip: These are too small and often contaminated.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the item a single-use sauce or condiment container? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the standard rigid plastic container in the blue bin. Tip: Size matters in recycling!<|end|>"}
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item thin, flexible, and can be easily stretched or crumpled? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item thin, flexible, and can be easily stretched or crumpled? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place in black trash bin. Tip: Soft flexible plastics can tangle in recycling equipment.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item thin, flexible, and can be easily stretched or crumpled? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the rigid plastic item in the blue recycling bin. Let's check other factors to be sure.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item smaller than a smartphone? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item smaller than a smartphone? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Small items fall through sorting machinery.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item smaller than a smartphone? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the item in the blue recycling bin. Its size is suitable for recycling. Let's check other factors.<|end|>"}
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item heavily soiled with food or grease? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item heavily soiled with food or grease? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Please clean it first. If it cannot be cleaned, place in the black trash bin. Tip: Food residue contaminates recycling.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item heavily soiled with food or grease? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the clean item in the blue recycling bin. Tip: Clean items ensure proper recycling.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item black or another very dark color? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item black or another very dark color? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Optical sorters at recycling facilities cannot detect black plastic.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item black or another very dark color? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the light-colored plastic item in the blue recycling bin. Tip: Lighter colors are easier to sort.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Can you see a numbered recycling symbol on the item? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Can you see a numbered recycling symbol on the item? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Great! Please place it in the blue recycling bin. Tip: The symbol indicates it is likely recyclable.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Can you see a numbered recycling symbol on the item? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the unmarked plastic item in the black trash bin. Tip: Unmarked plastics are often not recyclable.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Are there any non-plastic parts (like metal springs or paper labels) attached? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Are there any non-plastic parts (like metal springs or paper labels) attached? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Please separate the materials if possible. Recycle each part accordingly. Tip: Mixed materials complicate recycling.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Are there any non-plastic parts (like metal springs or paper labels) attached? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the single-material plastic item in the blue recycling bin. Tip: This is ideal for recycling.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does the plastic item have any pourable liquid residue inside? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does the plastic item have any pourable liquid residue inside? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Please empty and lightly rinse the item before placing it in the blue bin. Tip: Liquids contaminate paper and cardboard in the bin.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does the plastic item have any pourable liquid residue inside? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Place the empty item in the blue recycling bin. Tip: Dry items prevent contamination.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item a squeezable tube (like for lotion or paste)? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item a squeezable tube (like for lotion or paste)? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: These are typically multi-layered plastics and not recyclable.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item a squeezable tube (like for lotion or paste)? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Please place the rigid plastic item in the blue recycling bin. Let's continue to identify the item.<|end|>"}
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does the plastic item seem durable and designed for long-term use? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does the plastic item seem durable and designed for long-term use? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Consider reuse first! If broken, check for a recycling symbol. Tip: Reusing is better than recycling.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Does the plastic item seem durable and designed for long-term use? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Please place the single-use plastic item in the blue recycling bin if it is rigid and clean. Let's check if it's recyclable.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the item labeled as 'compostable' or 'biodegradable'? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the item labeled as 'compostable' or 'biodegradable'? (yes/no)<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Do not place in recycling. Check if it is certified for local composting, otherwise place in trash. Tip: These are not regular plastic.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the item labeled as 'compostable' or 'biodegradable'? (yes/no)<|end|>\n<|user|>No<|end|>\n<|assistant|>Please place the standard plastic item in the blue recycling bin. It can be evaluated as regular plastic.<|end|>"}
+
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item free of any adhesive labels or tape? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Great! Items without labels or tape can be recycled more easily. Place it in the blue recycling bin. Tip: Non-plastic adhesives can interfere with the recycling process.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>Remove any tape or adhesive labels before recycling. Otherwise, place in black bin if not removable. Tip: Sticky materials can contaminate recycling streams and damage equipment.<|end|>"}
+
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|assistant|>Is the plastic item a multi-layered plastic, like a chip bag or coffee pouch? (yes/no)<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>Yes<|end|>\n<|assistant|>Place it in the black trash bin. Tip: Multi-layered plastics like chip bags and coffee pouches are not accepted in Vancouver’s curbside recycling due to their mixed material composition.<|end|>"}
+{"text": "<|system|>You are a helpful recycling assistant chatbot. A plastic item has been detected.<|end|>\n<|user|>No<|end|>\n<|assistant|>If it's a single-material plastic and clean, place it in the blue recycling bin. Tip: Single-layer plastics are more likely to be recyclable in curbside programs.<|end|>"}
