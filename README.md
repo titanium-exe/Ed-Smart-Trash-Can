@@ -4,7 +4,7 @@
 https://universe.roboflow.com/ekamleen-maan/trash-object-detect-2p3ca/model/4
 
 ## LLM:  Phi-3-mini
-- To be fine tuned
+- To be fine tuned with QLoRa
 
 ## Deployment
 
